@@ -1,4 +1,3 @@
-- Hi, I’m @se34k
 - I’m interested in JavaScript, PHP and HTML5
 - I’m currently learning WebRTC, Electron and PWAs
 
